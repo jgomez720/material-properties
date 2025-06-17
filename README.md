@@ -88,16 +88,6 @@ with open('material-properties/carbonsteel.json') as aluminum_properties:
 AISI_1020_den = aluminum['AISI_1020']['hot']['den']
 ```
 
-### Contributors
- 
-<a href="https://github.com/kittyCAD/material-properties/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kittyCAD/material-properties" />
-</a>
-
-### How to Contribute
-
-If you would like to make a change, open up a PR and we will review promptly. If you would like to add or edit a value within the database, please provide a reference with your requested change. 
-
 #### References
 [1]: Beer, F. P., Johnston, E. R., DeWolf, J. T., & Mazurek, D. F. (2012). Mechanics of Materials (Sixth). MaGraw-Hill. <br>
 [2] Filament Properties Table. Simplify3D. (n.d.). Retrieved February 24, 2023, from https://www.simplify3d.com/resources/materials-guide/properties-table/ 
